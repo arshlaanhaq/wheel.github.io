@@ -15,7 +15,7 @@ html{
 /* navigation bar */
 #navbr {
     position: sticky;
-    top: 0px;
+/*     top: 0px; */
     display: flex;
     align-items: center;
     
